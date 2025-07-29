@@ -11,7 +11,7 @@ function Resume() {
           </svg>
         </div>
         <a
-          href="/Vanshika_SharmaResume.pdf"
+          href="/Vanshika_resume.pdf"
           download
           className="px-8 py-3 bg-blue-700 text-white rounded-full font-semibold shadow hover:bg-blue-700 transition text-lg"
         >
