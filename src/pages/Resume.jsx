@@ -11,11 +11,12 @@ function Resume() {
           </svg>
         </div>
         <a
-          href="/Vanshika_resume.pdf"
-          download
+          href="/resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
           className="px-8 py-3 bg-blue-700 text-white rounded-full font-semibold shadow hover:bg-blue-700 transition text-lg"
         >
-          Download Resume
+          View Resume
         </a>
       </div>
     </section>
