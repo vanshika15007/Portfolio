@@ -4,7 +4,7 @@ const skills = [
   { name: "JavaScript", level: 75, icon: "📜" },
   { name: "React", level: 70, icon: "⚛️" },
   { name: "Python", level: 65, icon: "🐍" },
-  { name: "Node.js", level: 65, icon: "🟢" },
+  { name: "Node.js", level: 30, icon: "🟢" },
 ];
 
 function Skills() {
